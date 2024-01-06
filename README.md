@@ -1,1 +1,1 @@
-Hello im Jesus Velasco, student of computer science on the Uvigo university.
+Hello! I'm Jesus Velasco, student of computer engineering at ESEI (Universidade de Vigo).
